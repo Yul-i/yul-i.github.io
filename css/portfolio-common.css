@@ -74,22 +74,22 @@ button{
     width: 240px;
     height: 50px;
 }
-#btn-desktop, #btn-tablet, #btn-mobile{
+#btn-original, #btn-git, #btn-app, #btn-renew, #btn-plan, #btn-pageguide, #btn-styleguide{
     margin-top: 20px;
     border: none;
     background: #ffc254;
     color: #fff;
 }
-#btn-original{
+.btn-enter{
     display: block;
 }
-#btn-original, #btn-back{
+#btn-renew, #btn-back{
     margin-top: 20px;
     border: 1px solid #332323;
     background:none;
     color: #332323;
 }
-#btn-original:hover{
+#btn-original:hover, #btn-back:hover, #btn-git:hover, #btn-app:hover, #btn-renew:hover, #btn-plan:hover, #btn-pageguide:hover, #btn-styleguide:hover{
     background: #ffc254;
     color: #fff;
     border: none;
