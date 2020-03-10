@@ -1,0 +1,36 @@
+@charset "UFT-8";
+
+button {
+    width: 200px;
+    height: 40px;
+}
+.btn-wrap{
+    text-align: center;
+}
+#btn-original{
+    display: inline-block;
+}
+#portfolio-text {
+    height: auto;
+}
+.title-wrap>h4 {
+    font-size: 36px;
+}
+.title-wrap>h5 {
+    font-size: 32px;
+}
+.text-left span.text-enter{
+    display: inline-block;
+}
+.text-left .btn-wrap{
+    display: none;
+}
+.text-right{
+    padding-top: 50px;
+}
+#portfolio-text .text-right p{
+    text-align: center;
+}
+#styleguide h3 {
+    padding-top: 50px;
+}
