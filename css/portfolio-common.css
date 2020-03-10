@@ -74,7 +74,7 @@ button{
     width: 240px;
     height: 50px;
 }
-#btn-original, #btn-git, #btn-app, #btn-renew, #btn-plan, #btn-pageguide, #btn-styleguide{
+#btn-original, #btn-git, #btn-app, #btn-renew, #btn-navguide, #btn-plan, #btn-pageguide, #btn-styleguide{
     margin-top: 20px;
     border: none;
     background: #ffc254;
@@ -83,13 +83,13 @@ button{
 .btn-enter{
     display: block;
 }
-#btn-renew, #btn-back{
+#btn-renew, #btn-back, #btn-app{
     margin-top: 20px;
     border: 1px solid #332323;
     background:none;
     color: #332323;
 }
-#btn-original:hover, #btn-back:hover, #btn-git:hover, #btn-app:hover, #btn-renew:hover, #btn-plan:hover, #btn-pageguide:hover, #btn-styleguide:hover{
+#btn-original:hover, #btn-back:hover, #btn-app:hover{
     background: #ffc254;
     color: #fff;
     border: none;
@@ -124,6 +124,9 @@ button{
 #styleguide{
     margin: 0 auto 100px;
     height: auto;
+}
+#styleguide.pf4{
+    margin: 225px auto 100px;
 }
 #styleguide h3{
     text-align: center;
