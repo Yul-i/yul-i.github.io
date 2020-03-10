@@ -90,7 +90,7 @@ button{
     background:none;
     color: #332323;
 }
-#btn-original:hover, #btn-back:hover, #btn-app:hover{
+#btn-original:hover, #btn-back:hover, #btn-app:hover, #btn-renew:hover{
     background: #ffc254;
     color: #fff;
     border: none;
