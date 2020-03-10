@@ -361,4 +361,14 @@ jQuery(document).ready(function($) {
 	  return false;
 	});
 
+	// email-copy
+	$('#btn-copy').click(
+		function() {
+			var urlbox = $('#textbox-url' );
+			urlbox.select();
+			document.execCommand( 'Copy' );
+			alert( 'e-mail 주소가 복사되었습니다.' );
+		}
+	);
+
 });

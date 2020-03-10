@@ -61,7 +61,8 @@ header .site-logo a span{
     font-size: 36px;
 }
 #portfolio-text{
-    height: 750px;
+    height: 100%;
+    padding-bottom: 30px;
 }
 #portfolio-text div>p, #portfolio-text div>span, #portfolio-text div>ul{
     color: #332323;
@@ -124,9 +125,6 @@ button{
 #styleguide{
     margin: 0 auto 100px;
     height: auto;
-}
-#styleguide.pf4{
-    margin: 225px auto 100px;
 }
 #styleguide h3{
     text-align: center;

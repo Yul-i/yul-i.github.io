@@ -23,7 +23,10 @@ button {
     display: inline-block;
 }
 .text-left .btn-wrap{
-    display: none;
+
+}
+#btn-renew, #btn-back, #btn-app{
+    margin: 50px auto 0;
 }
 .text-right{
     padding-top: 50px;

@@ -2167,6 +2167,18 @@ figure figcaption {
       top: 70px;
     }
 
+    #textbox-url {
+      /* display: none; */
+      position:   absolute;
+      top:        0;
+      left:       0;
+      width:      1px;
+      height:     1px;
+      margin:     0;
+      padding:    0;
+      border:     0;
+    }
+
 /* 미디어 쿼리 걸것 */
 
 /* tablet size */
