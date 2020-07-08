@@ -1,4 +1,5 @@
-# RacoonStudio Portfolio
+
+# RacoonStudio PORTFOLIO ![rogo](https://yul-i.github.io/images/logo.png) 
 
 ### 1) 프로젝트 정보
 * 프론트앤드 취업을 위한 개인 포트폴리오 웹 사이트
@@ -36,9 +37,9 @@
         * [GitHub Repository](https://github.com/Yul-i/momcar "맘카git")
     5. 포트폴리오 사이트(반응형 웹 페이지)
         * [설명 페이지](https://yul-i.github.io/ "포트폴리오info")
-        * [GitHub Repository](https://github.com/Yul-i/Racoon-Studio "포트폴리오git")
+        * [GitHub Repository](https://github.com/Yul-i/yul-i.github.io "포트폴리오git")
 5. CONTACT
     * 연락처 안내+이메일 copy
 
 ### 5)View
-![RacoonStudio](https://yul-i.github.io/images/portfolio-mockup.PNG) 
+![RacoonStudio](https://yul-i.github.io/images/portfolio-mockup.PNG)
