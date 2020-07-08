@@ -1,4 +1,4 @@
-# RacoonStudio 포트폴리오
+# RacoonStudio Portfolio
 
 ### 1) 프로젝트 정보
 * 프론트앤드 취업을 위한 개인 포트폴리오 웹 사이트
@@ -23,15 +23,20 @@
     * 보유 스킬 소개 페이지
 4. PORTFOLIO
     1. 2019 무주 반딧불축제(리뉴얼, 반응형 웹 페이지)
-        * https://yul-i.github.io/portfolio1.html
+        * [설명 페이지](https://yul-i.github.io/portfolio1.html "무주축제info")
+        * [GitHub Repository](https://github.com/Yul-i/mujufirefly "무주축제git")
     2. 스타벅스(리뉴얼, 반응형 웹 페이지)
-        * https://yul-i.github.io/portfolio2.html
+        * [설명 페이지](https://yul-i.github.io/portfolio2.html "스타벅스info")
+        * [GitHub Repository](https://github.com/Yul-i/starbucks "스타벅스git")
     3. 이디야 커피(클론, 반응형 웹 페이지)
-        * https://yul-i.github.io/portfolio3.html
+        * [설명 페이지](https://yul-i.github.io/portfolio3.html "이디야info")
+        * [GitHub Repository](https://github.com/Yul-i/ediya "이디야git")
     4. 맘카(웹 어플리케이션)
-        * https://yul-i.github.io/portfolio4.html
+        * [설명 페이지](https://yul-i.github.io/portfolio4.html "맘카info")
+        * [GitHub Repository](https://github.com/Yul-i/momcar "맘카git")
     5. 포트폴리오 사이트(반응형 웹 페이지)
-        * https://yul-i.github.io/portfolio5.html 
+        * [설명 페이지](https://yul-i.github.io/ "포트폴리오info")
+        * [GitHub Repository](https://github.com/Yul-i/Racoon-Studio "포트폴리오git")
 5. CONTACT
     * 연락처 안내+이메일 copy
 
