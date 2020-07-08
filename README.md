@@ -10,7 +10,8 @@
 
 ### 3)사용된 기술
 * PC/Mobile 반응형 웹 사이트
-* HTML5/CSS3/JavaScript/jQuery
+
+* ![Html5](https://img.shields.io/badge/HTML5-red) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![javascript](https://img.shields.io/badge/JavaScript-yellow) ![jquery](https://img.shields.io/badge/jQuery-orange) ![bootstrap](https://img.shields.io/badge/bootstrap-blueviolet)
 * 기 제작된 오픈 템플릿 사용
 
 ### 4)페이지 설명
