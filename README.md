@@ -7,7 +7,6 @@
 ### 2)URL
 * WebPage: https://yul-i.github.io/
 * InfoPage : https://yul-i.github.io/portfolio5.html
-* 코드 포트폴리오 : 구글이를 넣자
 
 ### 3)사용된 기술
 * PC/Mobile 반응형 웹 사이트
